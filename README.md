@@ -22,3 +22,5 @@ One of the advantages of this specialization is that it is very hands-on. You wi
 ## Conclusion
 
 If you are interested in learning how to deploy machine learning models, I highly recommend the TensorFlow Data and Deployment Specialization. It is a challenging but rewarding specialization that will teach you the skills you need to be successful in this field.
+
+
